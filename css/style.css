@@ -15,7 +15,7 @@ body {
 }
 
 .qr-component {
-  max-width: 380px;
+  max-width: 350px;
   background-color: hsl(0, 0%, 100%);
   border-radius: 20px;
   padding: 1rem;
@@ -31,7 +31,7 @@ body {
 }
 
 .qr-text-box {
-  padding: 0 1.5rem;
+  padding: 0 1rem;
   margin-bottom: 2rem;
 }
 
@@ -39,7 +39,7 @@ body {
   color: hsl(218, 44%, 22%);
   text-align: center;
   font-size: 1.5rem;
-  font-weight: 800;
+  font-weight: 700;
   margin-bottom: 1rem;
 }
 
